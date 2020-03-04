@@ -750,3 +750,330 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-12.54.08:259][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
 [2020.03.04-12.54.08:763][745]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMapE06DAA4A48C860FA6AB8C28D042CE4E0.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2020.03.04-12.54.09:859][745]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap_BuiltData6E139ADE4909D3708D91739556AE799F.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.04-12.58.06:244][686]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.03.04-12.58.13:256][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-12.58.14:507][182]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-12.58.14:517][182]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-12.58.14:517][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-12.58.14:518][182]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2020 12:58:14)
+[2020.03.04-12.58.14:518][182]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.04-12.58.14:570][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052386s)
+[2020.03.04-12.58.14:571][182]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.04-12.58.14:571][182]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2020.03.04-12.58.14:571][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.053292s)
+[2020.03.04-12.58.14:604][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.03.04-12.58.14:610][182]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-12.58.14:630][182]LogInit: FAudioDevice initialized.
+[2020.03.04-12.58.14:655][182]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.04-12.58.14:660][182]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.04-12.58.14
+[2020.03.04-12.58.14:660][182]LogWorld: Bringing up level for play took: 0.004656
+[2020.03.04-12.58.14:674][182]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.065
+[2020.03.04-12.58.14:674][182]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-12.59.59:533][528]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-12.59.59:534][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-12.59.59:576][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-12.59.59:576][528]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-12.59.59:603][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-12.59.59:608][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.03.04-12.59.59:636][529]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.04-13.00.23:176][ 65]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.03.04-13.00.30:181][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.00.30:251][450]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-13.00.30:262][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.00.30:262][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-13.00.30:262][450]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2020 13:00:30)
+[2020.03.04-13.00.30:262][450]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.04-13.00.30:315][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052637s)
+[2020.03.04-13.00.30:315][450]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.04-13.00.30:316][450]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2020.03.04-13.00.30:316][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.053379s)
+[2020.03.04-13.00.30:340][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.04-13.00.30:345][450]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-13.00.30:363][450]LogInit: FAudioDevice initialized.
+[2020.03.04-13.00.30:395][450]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.04-13.00.30:400][450]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.04-13.00.30
+[2020.03.04-13.00.30:400][450]LogWorld: Bringing up level for play took: 0.004501
+[2020.03.04-13.00.30:413][450]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.804
+[2020.03.04-13.00.30:413][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.02.15:646][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.02.15:646][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-13.02.15:688][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-13.02.15:688][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.02.15:713][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-13.02.15:717][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.03.04-13.02.15:745][653]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.04-13.02.22:676][ 85]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.04-13.02.22:676][ 85]Can't find target actor or component.
+[2020.03.04-13.02.26:556][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.02.26:606][315]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-13.02.26:616][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.02.26:616][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-13.02.26:616][315]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2020 13:02:26)
+[2020.03.04-13.02.26:617][315]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.04-13.02.26:669][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052370s)
+[2020.03.04-13.02.26:669][315]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.04-13.02.26:670][315]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2020.03.04-13.02.26:670][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.053085s)
+[2020.03.04-13.02.26:691][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.04-13.02.26:696][315]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-13.02.26:713][315]LogInit: FAudioDevice initialized.
+[2020.03.04-13.02.26:740][315]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.04-13.02.26:745][315]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.04-13.02.26
+[2020.03.04-13.02.26:745][315]LogWorld: Bringing up level for play took: 0.004464
+[2020.03.04-13.02.26:758][315]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.85
+[2020.03.04-13.02.26:758][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.02.31:788][668]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1178
+[2020.03.04-13.02.31:788][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.31:983][683]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002D
+[2020.03.04-13.02.31:983][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.32:137][695]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1178
+[2020.03.04-13.02.32:137][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.32:334][709]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002D
+[2020.03.04-13.02.32:334][709]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.32:813][743]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1178
+[2020.03.04-13.02.32:813][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.33:006][758]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002D
+[2020.03.04-13.02.33:006][758]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.33:044][761]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1178
+[2020.03.04-13.02.33:044][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.33:240][775]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002D
+[2020.03.04-13.02.33:240][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.33:496][793]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1178
+[2020.03.04-13.02.33:497][793]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.33:691][808]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002D
+[2020.03.04-13.02.33:692][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.33:717][810]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1178
+[2020.03.04-13.02.33:717][810]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.33:912][824]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002D
+[2020.03.04-13.02.33:912][824]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.34:095][837]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1178
+[2020.03.04-13.02.34:095][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.34:288][852]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002D
+[2020.03.04-13.02.34:288][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.34:365][858]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1178
+[2020.03.04-13.02.34:365][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.34:560][872]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002D
+[2020.03.04-13.02.34:560][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.34:716][883]LogScript: Warning: Accessed None trying to read property Physics Object
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1178
+[2020.03.04-13.02.34:716][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.34:909][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.35:100][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.35:295][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.35:436][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.35:628][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.35:779][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.02.35:974][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.02.52:106][ 87]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1281.028 Y=-263.304 Z=219.726] for [FirstPersonProjectile_C]
+[2020.03.04-13.02.52:476][112]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1306.954 Y=-271.509 Z=204.493] for [FirstPersonProjectile_C]
+[2020.03.04-13.02.52:702][127]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1291.929 Y=-278.576 Z=191.727] for [FirstPersonProjectile_C]
+[2020.03.04-13.02.52:895][140]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1288.002 Y=-277.082 Z=193.498] for [FirstPersonProjectile_C]
+[2020.03.04-13.03.04:532][937]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.03.04:532][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-13.03.04:578][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-13.03.04:579][937]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.03.04:604][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-13.03.04:608][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.03.04-13.03.04:615][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-13.03.04:675][938]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.03.04-13.03.08:226][123]LogSlate: Window 'Message Log' being destroyed
+[2020.03.04-13.03.08:246][123]LogSlate: Window 'Message Log' being destroyed
+[2020.03.04-13.03.13:913][448]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.03.04-13.03.37:003][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.03.37:121][712]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-13.03.37:131][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.03.37:131][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-13.03.37:131][712]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2020 13:03:37)
+[2020.03.04-13.03.37:131][712]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.04-13.03.37:183][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051900s)
+[2020.03.04-13.03.37:184][712]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.04-13.03.37:184][712]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2020.03.04-13.03.37:184][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.052623s)
+[2020.03.04-13.03.37:217][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.03.04-13.03.37:222][712]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-13.03.37:240][712]LogInit: FAudioDevice initialized.
+[2020.03.04-13.03.37:268][712]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.04-13.03.37:272][712]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.04-13.03.37
+[2020.03.04-13.03.37:273][712]LogWorld: Bringing up level for play took: 0.004407
+[2020.03.04-13.03.37:286][712]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.321
+[2020.03.04-13.03.37:286][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.03.42:108][122]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2023.490 Y=5043.740 Z=113.030] for [FirstPersonProjectile_C]
+[2020.03.04-13.04.10:144][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.04.10:336][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.04.20:497][345]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.04.20:696][363]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.04.21:453][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Collision Response to Channel
+[2020.03.04-13.04.21:644][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Physics Object". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set Angular Damping
+[2020.03.04-13.04.27:436][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.04.27:436][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-13.04.27:478][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-13.04.27:479][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.04.27:505][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-13.04.27:509][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.03.04-13.04.27:515][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-13.04.27:553][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.03.04-13.04.28:857][135]LogSlate: Window 'Message Log' being destroyed
+[2020.03.04-13.04.28:872][135]LogSlate: Window 'Message Log' being destroyed
+[2020.03.04-13.05.38:981][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.05.39:839][639]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.04-13.05.51:768][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.06.05:796][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.06.18:715][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.06.53:465][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.08.16:242][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.09.04:070][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.09.16:100][116]Cmd: TRANSACTION UNDO
+[2020.03.04-13.09.16:100][116]LogEditorTransaction: Undo Move Actors
+[2020.03.04-13.09.17:286][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.09.51:169][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.10.00:333][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-13.10.00:373][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.03.04-13.10.00:881][499]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap_Auto47FFD87204BDA81A407A23DAC6E8BCBEB.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2020.03.04-13.10.00:884][499]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.542
+[2020.03.04-13.10.00:884][499]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.542
+[2020.03.04-13.10.03:329][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.10.04:665][760]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.04-13.10.06:404][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.10.17:747][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.10.36:341][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.10.47:476][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.11.02:125][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.12.03:280][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.12.12:549][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.12.31:127][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.12.36:807][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.15.31:808][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.15.34:484][821]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush68)
+[2020.03.04-13.16.30:700][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.17.38:137][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.18.21:997][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.18.45:128][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.19.33:058][678]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-13.19.44:034][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.20.33:288][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.20.36:518][438]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.04-13.20.48:173][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.21.39:266][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.21.50:552][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-13.22.32:721][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.22.40:126][512]Cmd: TRANSACTION UNDO
+[2020.03.04-13.22.40:126][512]LogEditorTransaction: Undo Edit X
+[2020.03.04-13.23.19:303][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.23.26:974][949]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.04-13.23.37:952][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.23.43:906][161]Cmd: TRANSACTION UNDO
+[2020.03.04-13.23.43:906][161]LogEditorTransaction: Undo Edit X
+[2020.03.04-13.23.46:516][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.26.38:898][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-13.26.38:973][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.03.04-13.26.39:485][354]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap_Auto5135737544A09AAEC3D858397A25A3CA6.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2020.03.04-13.26.39:487][354]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.570
+[2020.03.04-13.26.39:487][354]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.570
+[2020.03.04-13.31.37:589][565]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.04-13.31.58:148][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.32.08:870][725]Cmd: TRANSACTION UNDO
+[2020.03.04-13.32.08:870][725]LogEditorTransaction: Undo Move Actors
+[2020.03.04-13.32.37:567][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.32.38:568][930]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.04-13.32.48:958][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.34.18:772][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.34.46:148][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.34.46:237][611]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-13.34.46:248][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.34.46:248][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-13.34.46:248][611]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2020 13:34:46)
+[2020.03.04-13.34.46:248][611]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.04-13.34.46:307][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058309s)
+[2020.03.04-13.34.46:307][611]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.04-13.34.46:307][611]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2020.03.04-13.34.46:307][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.059084s)
+[2020.03.04-13.34.46:341][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.03.04-13.34.46:349][611]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-13.34.46:367][611]LogInit: FAudioDevice initialized.
+[2020.03.04-13.34.46:394][611]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.04-13.34.46:399][611]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.04-13.34.46
+[2020.03.04-13.34.46:400][611]LogWorld: Bringing up level for play took: 0.004710
+[2020.03.04-13.34.46:413][611]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.91
+[2020.03.04-13.34.46:413][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.36.04:813][537]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.36.04:813][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-13.36.04:853][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-13.36.04:854][537]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.36.04:881][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-13.36.04:885][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.03.04-13.36.04:912][538]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.04-13.36.58:667][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.36.58:758][613]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-13.36.58:769][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.36.58:769][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-13.36.58:769][613]PIE: New page: PIE session: FirstPersonExampleMap (4 Mar 2020 13:36:58)
+[2020.03.04-13.36.58:769][613]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.04-13.36.58:827][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057974s)
+[2020.03.04-13.36.58:828][613]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.04-13.36.58:828][613]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2020.03.04-13.36.58:828][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.058711s)
+[2020.03.04-13.36.58:856][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.03.04-13.36.58:862][613]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-13.36.58:880][613]LogInit: FAudioDevice initialized.
+[2020.03.04-13.36.58:906][613]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.04-13.36.58:911][613]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.04-13.36.58
+[2020.03.04-13.36.58:912][613]LogWorld: Bringing up level for play took: 0.004744
+[2020.03.04-13.36.58:925][613]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.574
+[2020.03.04-13.36.58:925][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.37.55:218][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.37.55:218][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-13.37.55:259][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-13.37.55:260][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.04-13.37.55:288][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-13.37.55:293][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.03.04-13.37.55:320][423]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.03.04-13.38.53:359][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.38.54:745][961]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.04-13.39.29:777][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-13.39.29:823][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.04-13.39.30:388][518]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap_Auto6B33FE1E546117921F20B18A2E2B07842.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2020.03.04-13.39.30:391][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.593
+[2020.03.04-13.39.30:391][518]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.593
+[2020.03.04-13.47.55:776][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.50.30:807][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-13.50.30:857][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.03.04-13.50.31:375][492]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap_Auto73E1653BA4404ABB3D6148283B025C140.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2020.03.04-13.50.31:378][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.551
+[2020.03.04-13.50.31:378][492]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.551
+[2020.03.04-13.53.08:061][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-13.53.08:235][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.03.04-13.53.08:773][186]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap704EA6A240A43F1F62B0549589ACE4E7.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.04-13.53.09:544][186]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap_BuiltDataE6F7ADFF4569F70BB9C85F8AFCB64D65.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
