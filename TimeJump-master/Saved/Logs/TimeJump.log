@@ -2415,3 +2415,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.10-13.02.20:856][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
 [2020.03.10-13.02.22:190][249]LogSavePackage: Moving '../../../../../../Users/Finn/Documents/Nakamura-Industries/Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMapF2DF113145E4816BCCCE38A54407110D.tmp' to '../../../../../../Users/Finn/Documents/Nakamura-Industries/Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2020.03.10-13.02.23:192][249]LogSavePackage: Moving '../../../../../../Users/Finn/Documents/Nakamura-Industries/Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap_BuiltData8338BC5049F5AFB6F4D40CB22E8498F7.tmp' to '../../../../../../Users/Finn/Documents/Nakamura-Industries/Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.10-13.12.21:069][344]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.03.10-13.12.21:069][344]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.051
+[2020.03.10-13.12.21:071][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.03.10-13.12.21:103][344]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.03.10-13.12.21:103][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.03.10-13.12.21:252][344]LogSavePackage: Moving '../../../../../../Users/Finn/Documents/Nakamura-Industries/Nakamura-Industries/TimeJump-master/Saved/FirstPersonCharacter_Auto674FE8E31496B8B5E1E7E94B9B11B4695.tmp' to '../../../../../../Users/Finn/Documents/Nakamura-Industries/Nakamura-Industries/TimeJump-master/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset'
+[2020.03.10-13.12.21:253][344]LogFileHelpers: Auto-saving content packages took 0.183
