@@ -733,3 +733,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.17-11.41.33:178][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
 [2020.03.17-11.41.34:227][  9]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap30B0288A4BCD343F16F57FA52CBA68F5.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2020.03.17-11.41.34:712][  9]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap_BuiltData7FAB213449DC641C99ACFA913F031067.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.17-11.46.38:932][747]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2020.03.17-11.46.39:067][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.17-11.46.42:572][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.17-11.46.42:700][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.17-11.46.43:765][109]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap77ADA153424230525F01EFADCEB50E7E.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.17-11.46.44:148][109]LogSavePackage: Moving '../../../../../../Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap_BuiltData7ADEE6D44E5D5B5239D5288F2F26CBD7.tmp' to '../../../../../../Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
