@@ -10559,3 +10559,24 @@ Script Stack (0 frames):
 [2020.03.18-18.09.26:366][869]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2020.03.18-18.09.30:417][882]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2020.03.18-18.10.01:755][  7]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.18-18.15.23:259][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-18.15.33:191][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-18.22.38:831][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.03.18-18.22.42:107][535]LogSavePackage: Moving '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap713832544A1A122CDE5BD38FB2EF56F4.tmp' to '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.18-18.22.43:244][535]LogSavePackage: Moving '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Saved/FirstPersonExampleMap_BuiltDataA5EABF8A44426E22C9AD1CBD16453374.tmp' to '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.18-18.22.45:872][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.03.18-18.22.47:494][646]LogSlate: Window 'Save Content' being destroyed
+[2020.03.18-18.22.47:535][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bridge_Blueprint" FILE="../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/Blueprints/Bridge_Blueprint.uasset" SILENT=true
+[2020.03.18-18.22.47:749][646]LogSavePackage: Moving '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Saved/Bridge_BlueprintD47BF24548B3806FE829989BDC0AAFF2.tmp' to '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/Blueprints/Bridge_Blueprint.uasset'
+[2020.03.18-18.22.47:925][646]LogSavePackage: Moving '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Saved/BoxKiller_Blueprint549F9F454BABAF9F2BEA13AEDBB492E6.tmp' to '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/Blueprints/CubeRoom/BoxKiller_Blueprint.uasset'
+[2020.03.18-18.22.48:231][646]LogSavePackage: Moving '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Saved/BoxPooper_3ColourC991784B41C5BD7AE9355E957AAC19EE.tmp' to '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/Blueprints/CubeRoom/BoxPooper_3Colour.uasset'
+[2020.03.18-18.22.48:347][646]LogSavePackage: Moving '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Saved/CompanionCube_GreenD338733B4A0FDE6F926CB88712CCB43C.tmp' to '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/Blueprints/CubeRoom/CompanionCube_Green.uasset'
+[2020.03.18-18.22.48:637][646]LogSavePackage: Moving '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Saved/CompanionCube_PinkF936E32846A92E9331A94BB9BD5B53F7.tmp' to '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/Blueprints/CubeRoom/CompanionCube_Pink.uasset'
+[2020.03.18-18.22.48:880][646]LogSavePackage: Moving '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Saved/Grill_BlueprintE9CA1EAA4F6D056B38ACB087A4F3DFD7.tmp' to '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/Blueprints/Intro/Grill_Blueprint.uasset'
+[2020.03.18-18.22.48:892][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PipeWheel" FILE="../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/Blueprints/PipeWheel.uasset" SILENT=true
+[2020.03.18-18.22.49:606][646]LogSavePackage: Moving '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Saved/PipeWheel922EF1B34474D53E4B0844B88C670D65.tmp' to '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/Blueprints/PipeWheel.uasset'
+[2020.03.18-18.22.49:617][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Switch" FILE="../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/Blueprints/Switch.uasset" SILENT=true
+[2020.03.18-18.22.49:733][646]LogSavePackage: Moving '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Saved/Switch16CCD7EB43AF55EB5EE1829DDCF6882D.tmp' to '../../../../../../Unreal Projects/Nakamura-Industries/TimeJump-master/Content/Blueprints/Switch.uasset'
+[2020.03.18-18.22.50:288][646]LogSlate: Window 'TimeJump - Unreal Editor' being destroyed
+[2020.03.18-18.22.50:571][646]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.18-18.23.00:196][647]Cmd: QUIT_EDITOR
