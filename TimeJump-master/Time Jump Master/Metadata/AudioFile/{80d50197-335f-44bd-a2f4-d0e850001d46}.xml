@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{80d50197-335f-44bd-a2f4-d0e850001d46}">
+		<property name="assetPath">
+			<value>FOUNTAIN Large, Splasher Spray at Playground, 3m Far.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>30.947166666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1c9df0a9-0c12-4f60-b3bd-8bd9685e7594}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{98caaea1-4120-4e99-95b5-dfc6c41f803d}">
+		<property name="assetPath">
+			<value>STep 05.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.48695833333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1c9df0a9-0c12-4f60-b3bd-8bd9685e7594}</destination>
+		</relationship>
+	</object>
+</objects>

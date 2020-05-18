@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{421d8c25-add1-4ae0-82da-aaaec8e2c571}">
+		<property name="assetPath">
+			<value>Bluezone_BC0230_ambience_tonal_synth_014.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>35.619795918367345</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1c9df0a9-0c12-4f60-b3bd-8bd9685e7594}</destination>
+		</relationship>
+	</object>
+</objects>

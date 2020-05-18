@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{b61f8060-258d-4708-92d7-4b944231b59d}">
+		<property name="assetPath">
+			<value>02 anxiety descending - tonal immersive drone - stereo.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>120.27072916666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1c9df0a9-0c12-4f60-b3bd-8bd9685e7594}</destination>
+		</relationship>
+	</object>
+</objects>
